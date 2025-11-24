@@ -1,7 +1,7 @@
 <h2 align="left">👋 Hi, I'm Amy!</h2>
 
-A Cybersecurity & Data student passionate about building AI-powered security tools, creative web apps, and data-driven dashboards.  
-I love working at the intersection of **cybersecurity, machine learning, UI design, and data analysis**.
+I’m a Cybersecurity & Data student passionate about building **AI-powered security tools**, **clean user-focused web apps**, and **data-driven insights** that help people and organisations make smarter, safer decisions.  
+I love creating at the intersection of **cybersecurity**, **machine learning**, **data analytics**, and **modern UI design**.
 
 -  Exploring web security & phishing detection  
 -  Creating dashboards & data visualisations  
