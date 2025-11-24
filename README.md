@@ -3,10 +3,9 @@
 A Cybersecurity & Data student passionate about building AI-powered security tools, creative web apps, and data-driven dashboards.  
 I love working at the intersection of **cybersecurity, machine learning, UI design, and data analysis**.
 
-- 🔐 Exploring web security & phishing detection  
-- 📊 Creating dashboards & data visualisations  
-- 💻 Learning full-stack development (React + Node)  
-- 🚀 Local Lead for NASA Space Apps Cincinnati 2025  
+-  Exploring web security & phishing detection  
+-  Creating dashboards & data visualisations  
+-  Learning full-stack development (React + Node)  
 - 🌱 Always building something new — code, content, or ideas  
 
 ---
@@ -38,21 +37,11 @@ I love working at the intersection of **cybersecurity, machine learning, UI desi
 
 ## 🚧 Projects I’m Working On
 
-### 🔐 Cybersecurity + AI  
+### Cybersecurity + AI  
 - **ClickSnitch** — AI phishing detection & risk scoring  
-- **Secure API + Web Security experiments**  
-- **Fashion Detection (YOLO)** — computer vision  
 
 ### 📊 Data & Analytics  
 - **Water Treatment LRT Analysis** — environmental analytics  
-- **Marketing Analytics Dashboards** — Power BI + DAX  
-- **Instagram / LinkedIn Performance Reports**  
-- **Customer Behavior SQL Analysis**
-
-### 🌐 Web Apps  
-- **Lovable** — simple AI website builder  
-- **Gen Z Dictionary App** — MERN stack  
-- **AI Time Zone Converter** — built for international students
 
 ---
 
@@ -87,9 +76,4 @@ I love working at the intersection of **cybersecurity, machine learning, UI desi
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </div>
-
----
-
-## ⚡ Fun Fact  
-I can debug your code, analyse your data *and* review your Instagram reel — all before my coffee ☕✨  
 
