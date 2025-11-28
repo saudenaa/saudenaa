@@ -2,12 +2,12 @@
 
 I’m a Cybersecurity & Data student passionate about building **AI-powered security tools**, **clean user-focused web apps**, and **data-driven insights** that help people and organisations make smarter, safer decisions.  
 I love creating at the intersection of **cybersecurity**, **machine learning**, **data analytics**, and **modern UI design**.
-
--  Exploring web security & phishing detection  
--  Creating dashboards & data visualisations  
--  Learning full-stack development (React + Node)  
-- 🌱 Always building something new — code, content, or ideas  
-
+## 🌱 Currently Learning
+- ML feature engineering  
+- Web security & secure backend  
+- OpenCV + YOLO  
+- Advanced Power BI (DAX, KPIs)  
+- Data modelling + ETL pipelines
 ---
 
 ## 🧰 Tech Stack
@@ -32,15 +32,6 @@ I love creating at the intersection of **cybersecurity**, **machine learning**, 
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 
 </div>
-
----
-
-## 🌱 Currently Learning
-- ML feature engineering  
-- Web security & secure backend  
-- OpenCV + YOLO  
-- Advanced Power BI (DAX, KPIs)  
-- Data modelling + ETL pipelines
 
 ---
 
