@@ -35,28 +35,6 @@ I love creating at the intersection of **cybersecurity**, **machine learning**, 
 
 ---
 
-## 🚧 Projects I’m Working On
-
-### Cybersecurity + AI  
-- **ClickSnitch** — AI phishing detection & risk scoring  
-
-### 📊 Data & Analytics  
-- **Water Treatment LRT Analysis** — environmental analytics  
-
----
-
-## 📈 GitHub Stats
-
-<div align="left">
-  
-![Amy's GitHub stats](https://github-readme-stats.vercel.app/api?username=saudenaa&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saudenaa&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 🌱 Currently Learning
 - ML feature engineering  
 - Web security & secure backend  
@@ -65,15 +43,4 @@ I love creating at the intersection of **cybersecurity**, **machine learning**, 
 - Data modelling + ETL pipelines
 
 ---
-
-## 📫 Connect With Me
-
-<div>
-  <a href="https://www.linkedin.com/in/amishasauden/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:saudenaa@mail.uc.edu">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
 
