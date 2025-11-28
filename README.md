@@ -5,7 +5,6 @@ I love creating at the intersection of **cybersecurity**, **machine learning**, 
 ## 🌱 Currently Learning
 - ML feature engineering  
 - Web security & secure backend  
-- OpenCV + YOLO  
 - Advanced Power BI (DAX, KPIs)  
 - Data modelling + ETL pipelines
 ---
