@@ -1,15 +1,15 @@
-<h2 align="left">👋 Hi, I'm Amy!</h2>
+<h2 align="left">Hi, I'm Amy!</h2>
 
 I’m a Cybersecurity & Data student passionate about building **AI-powered security tools**, **clean user-focused web apps**, and **data-driven insights** that help people and organisations make smarter, safer decisions.  
 I love creating at the intersection of **cybersecurity**, **machine learning**, **data analytics**, and **modern UI design**.
-## 🌱 Currently Learning
+## Currently Learning
 - ML feature engineering  
 - Web security & secure backend  
 - Advanced Power BI (DAX, KPIs)  
 - Data modelling + ETL pipelines
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 <div align="left">
 
