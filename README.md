@@ -4,8 +4,7 @@ I’m a Cybersecurity & Data student passionate about building **AI-powered secu
 I love creating at the intersection of **cybersecurity**, **machine learning**, **data analytics**, and **modern UI design**.
 ## Currently Learning
 - ML feature engineering  
-- Web security & secure backend  
-- Advanced Power BI (DAX, KPIs)  
+- Web security & secure backend   
 - Data modelling + ETL pipelines
 ---
 
